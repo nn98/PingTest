@@ -1,8 +1,8 @@
 # PingTest
 6202 pc On/OffLine check
 
-###PingTest to check public desktops status(on/off)by using IP address.
-###imperfection code. (by restrictions on networks, or just local ethernet error.)
+##PingTest to check public desktops status(on/off)by using IP address.
+##imperfection code. (by restrictions on networks, or just local ethernet error.)
 
 ```java
 public class PingTest {
